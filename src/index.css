@@ -90,26 +90,31 @@
   .img{
   width: 90%;
   height: 40%;
+  margin-left: 20px;
   margin-top: 50px;
 }
 #right{
   font-weight: bold;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin-top: 20px;
-  margin-left: 0px;
+  margin-left: 50px;
+  font-size: 50px;
 }
 #dive{
-  margin-left: 0px;
-  margin-top: 20px;
+  margin-left: -100px;
+  margin-top: 300px;
   font-size: 14px;
+  display: none;
 }
 #hall{
   background-color: black;
-  width: 60%;
+  width: 70%;
+  padding: 50px;
   margin-left: 50px;
   height: 100%;
+  margin-top: 800px;
 }
 #upp{
-  margin-top: 20px;
+  margin-top: 50px;
 }
 }
